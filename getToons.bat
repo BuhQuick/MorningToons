@@ -1,7 +1,9 @@
 @echo off
-chcp 65001
+chcp 1250
+cls
+COLOR 1F
 d:
 cd program files\eclipse\workspace16-17\MorningToons\src
 javac MorningToonsList.java
-java MorningToonsList 09.17.MorningToons.csv 5
+java MorningToonsList c:\users\nbuqu\desktop\morningcartoons\MorningToons.csv
 pause
