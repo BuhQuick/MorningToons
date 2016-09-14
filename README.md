@@ -1,6 +1,8 @@
 # MorningToons
 Small program to help decide Sunday morning cartoons with the roommates
 
+reference raw for proper formatting
+
 *******************INSTRUCTIONS*******************
 | The program runs particular to a formatted CSV |
 | The format of the CSV must follow the outline: |
