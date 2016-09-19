@@ -1,5 +1,7 @@
 # MorningToons
 Small program to help decide Sunday morning cartoons with the roommates
+TODO: Use google drive API to download CSV directly from google drive, 
+update CSV with links to most recently watched episode, open each chosen from browser
 
 reference raw for proper formatting
 
